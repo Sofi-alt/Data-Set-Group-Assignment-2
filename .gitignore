@@ -172,4 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-.DC_Store
+.DS_Store
