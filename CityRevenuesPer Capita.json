@@ -5,7 +5,7 @@
       "name" : "City Revenues Per Capita",
       "assetType" : "dataset",
       "attribution" : "California State Controller's Office",
-      "averageRating" : 0,
+      "averageRating" : ,
       "category" : "Cities",
       "createdAt" : 1514495050,
       "description" : "Per capita values are calculated by dividing the estimated population into total revenues per city, per fiscal year.",
